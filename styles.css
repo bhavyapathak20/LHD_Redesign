@@ -1,0 +1,109 @@
+body{
+    margin:0;
+}
+
+
+
+.vit-logo {
+    background-image:linear-gradient(#3D0000, #B61919 );
+    height: 608px;
+    width: 210px;
+    position: absolute;
+    left: 30px;
+}
+
+.logo{
+    height: 150px;
+    width: 200px;
+    border-radius: 100%;
+    position: absolute;
+    right:5px;
+    top: 150px;
+}
+
+.students{
+    background-color:#cfe7f7;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    right: 800px;
+    top: 280px;
+    border-radius: 100%;
+    border-color: black;
+    border-style: solid;
+}
+
+
+.parents{
+    background-color:#a9eca9;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    right: 570px;
+    top: 280px;
+    border-radius: 100%;
+    border-color: black;
+    border-style: solid;
+}
+
+
+
+.alumni{
+    background-color:#92c1cf;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    right: 340px;
+    top: 280px;
+    border-radius: 100%;
+    border-color: black;
+    border-style: solid;
+}
+
+
+
+.spotlight {
+    background-image: linear-gradient(#FFC947, #F0EBCC);
+    height: 600px;
+    width: 300px;
+    position: absolute;
+    right: 5px;
+}
+
+.h2{
+    color: #03256C;
+    position:absolute ;
+    left: 350px;
+    font-size: 150px;
+    top: 10px;
+    margin: 0px;
+}
+
+.spot{
+    font-family: 'Dancing Script', cursive;
+    position: absolute;
+    right: 90px;
+    font-size: 40px;
+    margin: 0;
+}
+
+.student-login {
+    position: absolute;
+    left: 25px;
+    top: 60px;
+}
+
+
+.parent-login {
+    position: absolute;
+    left: 25px;
+    top: 60px;
+}
+
+
+.alumni-login {
+    position: absolute;
+    left: 25px;
+    top: 60px;
+}
+
